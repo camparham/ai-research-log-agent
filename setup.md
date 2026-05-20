@@ -8,6 +8,7 @@
 - **A Google Sheet** with two tabs:
   - `Sheet1` — where completed research results are logged
   - `Requests` — where pending research jobs are queued (optional)
+- **Follow along using the playlist** - [agent buildout YouTube playlist](https://youtube.com/playlist?list=PLryj86eVRLnt-TdNUk0Bqw9O4rX42tllF&si=KBpAk-SqCZkALbcE)
 
 ---
 
