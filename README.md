@@ -30,7 +30,7 @@ No manual searching. No copy-pasting. No formatting.
 
 The playlist walks you through the full build and shows exactly where to paste your API keys and credentials.
 
-**[Watch the full playlist on YouTube](https://youtu.be/DXsLo195G0Y)**
+**[Watch the full playlist on YouTube](https://youtube.com/playlist?list=PLryj86eVRLnt-TdNUk0Bqw9O4rX42tllF&si=KBpAk-SqCZkALbcE)**
 
 ---
 
