@@ -41,5 +41,5 @@ pip install -r requirements.txt
 python agent.py "your research topic here"
 ```
 
-Full setup instructions → [SETUP.md](SETUP.md)
-Want to customize the output or destination? → [EXTENDING.md](EXTENDING.md)
+Full setup instructions → [SETUP.md](https://github.com/camparham/ai-research-log-agent/blob/main/setup.md)
+Want to customize the output or destination? → [make-it-yours.md](https://github.com/camparham/ai-research-log-agent/blob/main/make-it-yours.md)
