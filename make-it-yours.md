@@ -36,4 +36,4 @@ The structure stays the same — research in, formatted content out, delivered a
 
 The playlist covers how to customize both the output destination and the prompt template.
 
-**[Watch the full playlist on YouTube](https://youtu.be/DXsLo195G0Y)**
+**[Watch the full playlist on YouTube](https://youtube.com/playlist?list=PLryj86eVRLnt-TdNUk0Bqw9O4rX42tllF&si=KBpAk-SqCZkALbcE)**
